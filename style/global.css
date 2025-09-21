@@ -40,18 +40,16 @@ h1, h2, h3{
   font: inherit; /* herdando as conf. do pai body */
 }
 
+img{
+  max-width: 100%;
+}
+
 .container{
   max-width: 1280px;
   padding-inline: 32px;
   margin-inline: auto;
 }
 
-
-/* utility-fist = quando tenho uma classe ela irá fazer apenas uma coisa*/
-.grid{
-  display: grid;
-}
-
-.grid-flow-col{ /* fluxo da coluna */
-  grid-auto-flow: column; /* pedi para o item sair de baixo dos outros e virar coluna */
+main{
+  margin-top: 40px;
 }

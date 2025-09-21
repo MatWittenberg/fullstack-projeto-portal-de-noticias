@@ -1,0 +1,16 @@
+/* utility-fist = quando tenho uma classe ela irá fazer apenas uma coisa*/
+.grid{
+  display: grid;
+}
+
+.grid-flow-col{ /* fluxo da coluna */
+  grid-auto-flow: column; /* pedi para o item sair de baixo dos outros e virar coluna */
+}
+
+.grid-cols-2{
+  grid-template-columns: 1fr 1fr;
+}
+
+.gap-16{
+  gap: 16px;
+}
