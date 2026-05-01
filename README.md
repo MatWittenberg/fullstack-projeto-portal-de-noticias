@@ -28,4 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
+Nesse projeto desenvolvi um portal de notícias para praticar o conhecimento com o Grid!
